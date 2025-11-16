@@ -1,93 +1,93 @@
 # ====== SMARTSCREEN (bloqueio total) ======
-checkappexec.microsoft.com
-smartscreen-prod.microsoft.com
-smartscreen.microsoft.com
-ssw.live.com
-nav.smartscreen.microsoft.com
-navchecksmartscreen.microsoft.com
-arc.msn.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 smartscreen-prod.microsoft.com
+0.0.0.0 smartscreen.microsoft.com
+0.0.0.0 ssw.live.com
+0.0.0.0 nav.smartscreen.microsoft.com
+0.0.0.0 navchecksmartscreen.microsoft.com
+0.0.0.0 arc.msn.com
 
 # ====== BING / MSN / WIDGETS ======
-bing.com
-www.bing.com
-ssl.bing.com
-cn.bing.com
-api.msn.com
-assets.msn.com
-data.msn.com
-g.msn.com
-weather.microsoft.com
-microsoftedgewelcome.microsoft.com
+0.0.0.0 bing.com
+0.0.0.0 www.bing.com
+0.0.0.0 ssl.bing.com
+0.0.0.0 cn.bing.com
+0.0.0.0 api.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 data.msn.com
+0.0.0.0 g.msn.com
+0.0.0.0 weather.microsoft.com
+0.0.0.0 microsoftedgewelcome.microsoft.com
 
 # ====== MICROSOFT APPS (Outlook, Office, OneDrive, Teams, Skype) ======
-graph.microsoft.com
-onedrive.live.com
-storage.live.com
-officeclient.microsoft.com
-officecdn.microsoft.com
-officecdn.microsoft.com.edgesuite.net
-clientconfig.microsoftonline.com
-skype.com
-api.skype.com
-teams.microsoft.com
-config.teams.microsoft.com
-outlook.office365.com
-outlook.live.com
-officeapps.live.com
-nexusrules.officeapps.live.com
+0.0.0.0 graph.microsoft.com
+0.0.0.0 onedrive.live.com
+0.0.0.0 storage.live.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 officecdn.microsoft.com.edgesuite.net
+0.0.0.0 clientconfig.microsoftonline.com
+0.0.0.0 skype.com
+0.0.0.0 api.skype.com
+0.0.0.0 teams.microsoft.com
+0.0.0.0 config.teams.microsoft.com
+0.0.0.0 outlook.office365.com
+0.0.0.0 outlook.live.com
+0.0.0.0 officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 
 # ====== MICROSOFT ACCOUNT (somente bloquear se você não usa login MS) ======
-login.live.com
-login.microsoftonline.com
-login.microsoft.com
-auth.microsoft.com
+0.0.0.0 login.live.com
+0.0.0.0 login.microsoftonline.com
+0.0.0.0 login.microsoft.com
+0.0.0.0 auth.microsoft.com
 
 # ====== TELEMETRIA DO WINDOWS (extra além do WindowsSpyBlocker) ======
-vortex-win.data.microsoft.com
-settings-win.data.microsoft.com
-telemetry.microsoft.com
-watson.telemetry.microsoft.com
-watson.ppe.telemetry.microsoft.com
-wes.df.telemetry.microsoft.com
-c-msedge.net
-esignin.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.ppe.telemetry.microsoft.com
+0.0.0.0 wes.df.telemetry.microsoft.com
+0.0.0.0 c-msedge.net
+0.0.0.0 esignin.microsoft.com
 
 # ====== TELEMETRIA NVIDIA ======
-telemetry.nvidia.com
-gfwsl.geforce.com
-events.gfe.nvidia.com
-ota.nvidia.com
-gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 gfwsl.geforce.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 ota.nvidia.com
+0.0.0.0 gfe.nvidia.com
 
 # ====== TELEMETRIA AMD ======
-analytics.radeon.com
-telemetry.radeon.com
+0.0.0.0 analytics.radeon.com
+0.0.0.0 telemetry.radeon.com
 
 # ====== TELEMETRIA INTEL ======
-telemetry.intel.com
+0.0.0.0 telemetry.intel.com
 
 # ====== GOOGLE / CHROME TELEMETRIA ======
-clients2.google.com
-clients3.google.com
-clients4.google.com
-clients5.google.com
-clients6.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
 
 # ====== FIREFOX TELEMETRIA ======
-telemetry.mozilla.org
-incoming.telemetry.mozilla.org
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 incoming.telemetry.mozilla.org
 
 # ====== DISCORD ======
-track.discordapp.com
+0.0.0.0 track.discordapp.com
 
 # ====== STEAM ======
-metrics.steampowered.com
+0.0.0.0 metrics.steampowered.com
 
 # ====== EPIC GAMES ======
-tracking.epicgames.com
-et2.epicgames.com
+0.0.0.0 tracking.epicgames.com
+0.0.0.0 et2.epicgames.com
 
 # ====== MISC / TELEMETRIA GERAL ======
-ads.msn.com
-adnxs.com
-adnexus.net
+0.0.0.0 ads.msn.com
+0.0.0.0 adnxs.com
+0.0.0.0 adnexus.net
